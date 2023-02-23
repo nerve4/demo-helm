@@ -1,2 +1,3 @@
-# demo-helm
-demo-helm
+# Demo-helm
+
+Demo of env-based helm chart
